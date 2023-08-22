@@ -29,7 +29,7 @@ import tesla from "./company/tesla.png";
 import nextAuth from "./next-auth.png";
 import docAppoint from "./doc-appoint.png";
 import portfolio from "./portfolio.png";
-import crud from "./crud.jpeg";
+import crud from "./CRUD.jpeg";
 import weather from "./weather.png";
 
 export {
