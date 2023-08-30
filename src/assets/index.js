@@ -31,6 +31,7 @@ import docAppoint from "./doc-appoint.png";
 import portfolio from "./portfolio.png";
 import crud from "./CRUD.jpeg";
 import weather from "./weather.png";
+import adminPanel from "./admin-panel.png";
 
 export {
   logo,
@@ -63,4 +64,5 @@ export {
   docAppoint,
   portfolio,
   weather,
+  adminPanel,
 };

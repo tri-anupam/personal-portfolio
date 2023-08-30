@@ -24,6 +24,7 @@ import {
   docAppoint,
   portfolio,
   nextjs,
+  adminPanel,
 } from "../assets";
 
 export const navLinks = [
@@ -214,6 +215,27 @@ const projects = [
     ],
     image: nextAuth,
     source_code_link: "https://github.com/tri-anupam/nextjs-auth-project",
+  },
+  {
+    name: "React Admin Panel",
+    description:
+      "Admin Dashboard UI using technologies Reactjs, SCSS, Material UI and Recharts to create fully functional dashboard.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "materialUI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: adminPanel,
+    source_code_link: "https://github.com/tri-anupam/react-admin-dashboard",
   },
   {
     name: "Doctor Appointment System",
